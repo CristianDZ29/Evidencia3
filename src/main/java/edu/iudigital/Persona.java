@@ -1,4 +1,4 @@
-package org.example;
+package edu.iudigital;
 
 public class Persona {
 

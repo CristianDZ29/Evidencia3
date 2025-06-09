@@ -1,4 +1,4 @@
-package org.example.DB;
+package edu.iudigital.DB;
 
 import java.sql.Connection;
 import java.sql.DriverManager;
