@@ -5,7 +5,7 @@ import java.sql.DriverManager;
 import java.sql.SQLException;
 
 public class DB_Conexion {
-    // Cambia estos valores según tu configuración de MySQL Workbench
+
     private static final String URL = "jdbc:mysql://localhost:3306/bd_herencia";
     private static final String USUARIO = "herenciaP";
     private static final String CONTRASEÑA = "ejemplo01";
